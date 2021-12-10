@@ -37,7 +37,7 @@ public class CreateDemo {
 							"http://www.youtube.com",
 							"Guitar");
 			
-			tempInstructor.setInstructionDetail(tempInstructorDetail);
+			tempInstructor.setInstructorDetail(tempInstructorDetail);
 					
 			session.beginTransaction();
 
